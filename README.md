@@ -4,10 +4,10 @@
 
 🚀 Apaixonada por tecnologia, agilidade e otimização de processos.  
 💡 Buscando oportunidades como Scrum Master, Engenheira de Software ou Assistente de Projetos Ágeis.  
-📊 Experiência com Business Intelligence, Lean Six Sigma e Gerenciamento de Projetos.  
+📊 Experiência com Business Intelligence, Lean Six Sigma e gerenciamento de projetos.  
 
 ## 🌎 Onde me encontrar?
-🔗 [LinkedIn]([https://www.linkedin.com/in/aline-ribeiro-br/])
-📫 Email: aline-nascimento123@hotmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aline-ribeiro-br/)  
+- 📫 Email: aline-nascimento123@hotmail.com  
 
-📌 "Toda mudança vem com desafios, mas também com muitas oportunidades."
+📌 *"Toda mudança vem com desafios, mas também com muitas oportunidades."*
