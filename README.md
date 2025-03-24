@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Aline Ribeiro do Nascimento!
 
-<!--
-**alineribeiron/alineribeiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Engenharia de Software | Scrum | Excelência Operacional | Lean Six Sigma**  
 
-Here are some ideas to get you started:
+🚀 Apaixonada por tecnologia, agilidade e otimização de processos.  
+💡 Buscando oportunidades como Scrum Master, Engenheira de Software ou Assistente de Projetos Ágeis.  
+📊 Experiência com Business Intelligence, Lean Six Sigma e Gerenciamento de Projetos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 Onde me encontrar?
+🔗 [LinkedIn]([https://www.linkedin.com/in/aline-ribeiro-br/])
+📫 Email: aline-nascimento123@hotmail.com  
+
+📌 "Toda mudança vem com desafios, mas também com muitas oportunidades."
